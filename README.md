@@ -1,3 +1,3 @@
 # Python_Basics
 
-Bank account with user project to show basic Python code.
+Python script with bank account and user classes. Script showcases class methods with outputs in the console.
